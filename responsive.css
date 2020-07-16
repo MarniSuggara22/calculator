@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+@media (max-width: 425px) {
+	.calculator {
+		width: 100%;
+	}
+	
+	.logotop {
+		width: 100%;
+	}
+	
+	.nk-kiri {
+		width: 14%;
+	}
+}
