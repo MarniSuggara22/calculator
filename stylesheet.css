@@ -85,7 +85,7 @@ button:hover {
 
 body {
 	background-image: url("BG.jpg");
-	background-size: cover;
+	background-size: contain;
 }
 
 .nk-kiri {
